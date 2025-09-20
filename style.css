@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.class{
+    background-color: #ff0000;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
+input{
+    width: 250px;
+}
+button{
+    background-color: #a02f2f;
+}
